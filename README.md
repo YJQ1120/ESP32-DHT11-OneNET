@@ -1,3 +1,5 @@
+开发环境
+Vscode+PlatformIO
 Token生成工具下载：https://open.iot.10086.cn/doc/mqtt/book/manual/auth/tool.html
 
 下面是OneNET平台的配置：
